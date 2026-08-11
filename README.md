@@ -1,3 +1,5 @@
 # **my todo list**
-<img src="https://i.ibb.co/1Y5w23ck/DEFDE03-B-65-A0-45-DD-A28-A-758384-F2-F733.png" banner" />
+#1.Learn new cpp things
+#2.Learn XCB doc to make Spacewm
+#3.Update 1.8.9 cheat, delete aislop and fix alot bugs
 
