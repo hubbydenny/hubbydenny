@@ -1,3 +1,3 @@
-# **todo list
-1.finish spacewm (think its be 1500 lines +-)
+# *todo list
+1.learn wayland, wlroots to make spacewc
 
