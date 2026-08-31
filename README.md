@@ -1,5 +1,5 @@
 # *todo list
-GOAL: learn wayland, wlroots to make spacewc also read tinywl and dis thing https://codeberg.org/shrub900/howl
+GOAL: finish spacewc, recode larparius super-animal, recode larparius minecraft
 ## updates
 Updated S-ecosystem added new derive logo;
 Forked derive;
