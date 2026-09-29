@@ -1,1 +1,3 @@
-# todo learn modern c++ (23) and remember all that i forgot
+# todo: Finish cs2 klotski (opensource cs2 movement cheat) 
+# try to make from scratch css movement opensource cheat
+# learn reverse more 
